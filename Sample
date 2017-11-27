@@ -2,5 +2,5 @@
 #include<conio.h>
 main(){
 printf("jkag");
-getch()
+getch();
 }
